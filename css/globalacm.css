@@ -1,0 +1,183 @@
+body{
+	background-image: url("../images/wallpaperlight.png");
+	/* Background pattern from subtlepatterns.com */
+	width: 1000px;
+	margin: 0px auto;
+	}
+
+#navCol{
+	width: 200px;
+	text-align:left;
+	background-color: #11508B;
+	float:left;
+	height: 2750px;
+}
+
+#mainContent{
+	width: 800px;
+	float: right;
+}
+
+#header{
+	width: 800px;
+	height: 100px;
+	text-align: center;
+	background-color: #11508B;
+	float:right;
+}
+
+#navCol img{
+	width: 180px;
+	height: 180px;
+	padding: 10px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+#navCol li a {
+	font-size: 12px;
+	margin: 0px;
+	height: 100px;
+	width: 150px;
+	color: #fff;
+	font-family: helvetica;
+	text-transform: uppercase;
+	text-decoration: none;
+}*/
+
+#aboutUs {
+	width: 800px;
+	float: right;
+}
+
+#events {
+	width: 800px;
+	float: right;
+}
+
+#events li {
+	text-decoration: none;
+	padding-left: 75px;
+}
+
+#springBreakRoadtrip {
+	width: 800px;
+	float: right;
+}
+
+#springBreakRoadtrip img {/*format image for springBreakRoadtrip*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	height: 200px;
+	width: 356px;
+	margin: 0px auto;
+	border-radius: 10px 10px 10px 10px;/*round the corners*/
+}
+
+#resources {
+	width: 800px;
+	padding: 0px;
+	float: right;
+}
+
+#articles {
+	width: 800px;
+	padding: 0px;
+	float: right;
+}
+
+#leadership {
+	width: 800px;
+	padding: 0px;
+	float: right;
+}
+
+#webLinksLeft, #devEnvironmentLeft, #textEditorsLeft, #GitHubLeft, #VMLeft, #microsoftLeft, #officersLeft, #articlesLeft, #resourcesLeft, #contactsLeft {
+	width: 350px;
+	padding-left: 50px;
+	margin: 0px;
+	float: left;
+}
+
+#webLinksRight, #devEnvironmentRight, #textEditorsRight, #GitHubRight, #VMRight, #microsoftRight, #officersRight, #articlesRight, #resourcesRight, #contactsRight {
+	width: 350px;
+	padding-right: 50px;
+	margin: 0px;
+	float: right;
+}
+
+#contacts {
+	width: 800px;
+	height: 125px;
+	padding: 0px;
+	float: right;
+}
+
+#footer {
+	width: 800px;
+	height: 45px;
+	padding: 10px;
+	float: right;
+}
+
+#footer p {
+	text-align: right;
+}
+
+#mainContent p{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+li {
+	list-style-type: none;
+}
+
+h1{ /*Main header on page*/
+ 	color: #FCFCFC;
+ 	font-family: 'Francois One', sans-serif;
+ 	font-size: 36px;
+ 	padding: 0px;
+ 	margin: 0px;
+}
+
+h2{ /*Second level headers*/
+	color: #D7DCD6;
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+	text-decoration: underline;
+}
+
+#navCol h2 {
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
+
+h4{ /*Section headers*/
+	color: black;
+	text-align: center;
+	padding-bottom: 10px;
+	text-decoration: underline;
+}
+
+h3{ /*Section headers*/
+	color: black;
+	text-align: center;
+	padding-bottom: 10px;
+	text-decoration: underline;
+}
+
+.unindented{
+    padding: 10px;
+    margin: 0px;
+    list-style-type: none;
+}
+
+.clear {
+	clear:both;
+}
