@@ -8,4 +8,6 @@ Ideas for improvements include:<br/>
 :small_blue_diamond: A nicer way to show events (see IdeaForEvents.png in this repo)<br/>
 :small_blue_diamond: YOUR contribution ideas<br/>
 
+It is important to keep in mind that we want this site to be easy to maintain for any CS student who has taken the CS145 - Web Design course.
+
 
